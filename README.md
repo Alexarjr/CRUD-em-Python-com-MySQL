@@ -22,7 +22,7 @@ operações de:
 - ├── crud.py # Código do CRUD 
 - └── requirements.txt
 
-⚙️ Como configurar
+## ⚙️ Como configurar
 
 1.  Instale as dependências:
 
