@@ -16,13 +16,13 @@ operações de:
 
 ## 📁 Estrutura do projeto
 
-CRUD Python/
-│ 
-├── config.py # Credenciais do banco (não enviar ao GitHub) 
-├── crud.py # Código do CRUD 
-├── README.md 
-├── .gitignore 
-└── requirements.txt
+- CRUD Python/
+- │ 
+- ├── config.py # Credenciais do banco (não enviar ao GitHub) 
+- ├── crud.py # Código do CRUD 
+- ├── README.md 
+- ├── .gitignore 
+- └── requirements.txt
 
 ⚙️ Como configurar
 
