@@ -30,10 +30,10 @@ operações de:
 
 2.  Crie um arquivo config.py:
 
-    HOST = "seu_host"
-    USER = "seu_usuario"
-    PASSWORD = "sua_senha"
-    DATABASE = "seu_banco"
+   - HOST = "seu_host"
+   - USER = "seu_usuario"
+   - PASSWORD = "sua_senha"
+   - DATABASE = "seu_banco"
 
 3.  Execute o arquivo principal:
 
