@@ -18,10 +18,8 @@ operações de:
 
 - CRUD Python/
 - │ 
-- ├── config.py # Credenciais do banco (não enviar ao GitHub) 
+- ├── config.py 
 - ├── crud.py # Código do CRUD 
-- ├── README.md 
-- ├── .gitignore 
 - └── requirements.txt
 
 ⚙️ Como configurar
