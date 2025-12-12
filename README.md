@@ -1,4 +1,4 @@
-#CRUD em Python com MySQL
+# CRUD em Python com MySQL
 
 Um CRUD simples em Python conectado ao banco de dados MySQL, contendo
 operações de:
