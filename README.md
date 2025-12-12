@@ -14,7 +14,7 @@ operações de:
 -   MySQL
 -   mysql-connector-python
 
-📁 Estrutura do projeto
+## 📁 Estrutura do projeto
 
 CRUD Python/
 │ 
